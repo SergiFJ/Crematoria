@@ -1,0 +1,78 @@
+AIDemo.o: AIDemo.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AINull.o: AINull.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox.o: AISerox.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox1.o: AISerox1.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox10.o: AISerox10.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox11.o: AISerox11.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox12.o: AISerox12.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox13.o: AISerox13.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox14.o: AISerox14.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox15.o: AISerox15.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox16.o: AISerox16.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17.o: AISerox17.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v2.o: AISerox17v2.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v3.o: AISerox17v3.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v4.o: AISerox17v4.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v5.o: AISerox17v5.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v6.o: AISerox17v6.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v7.o: AISerox17v7.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox17v8.o: AISerox17v8.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox18.o: AISerox18.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox19.o: AISerox19.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox2.o: AISerox2.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox3.o: AISerox3.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox4.o: AISerox4.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox5.o: AISerox5.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox6.o: AISerox6.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox7.o: AISerox7.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox8.o: AISerox8.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox9.o: AISerox9.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+AISerox_1.o: AISerox_1.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AISerox_2.o: AISerox_2.cc Player.hh Info.hh Settings.hh Structs.hh \
+ Utils.hh State.hh Action.hh Random.hh Registry.hh
+AITifaLockhart.o: AITifaLockhart.cc Player.hh Info.hh Settings.hh \
+ Structs.hh Utils.hh State.hh Action.hh Random.hh Registry.hh
+Action.o: Action.cc Action.hh Structs.hh Utils.hh
+Game.o: Game.cc Game.hh Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh Board.hh
+Info.o: Info.cc Info.hh Settings.hh Structs.hh Utils.hh State.hh
+Main.o: Main.cc Game.hh Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh Board.hh
+Player.o: Player.cc Player.hh Info.hh Settings.hh Structs.hh Utils.hh \
+ State.hh Action.hh Random.hh Registry.hh
+Random.o: Random.cc Random.hh Utils.hh
+Registry.o: Registry.cc Registry.hh Utils.hh
+Settings.o: Settings.cc Settings.hh Structs.hh Utils.hh
+State.o: State.cc State.hh Structs.hh Utils.hh
+Structs.o: Structs.cc Structs.hh Utils.hh
+Utils.o: Utils.cc Utils.hh
