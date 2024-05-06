@@ -1,5 +1,5 @@
 # Crematoria
-The objective of this project is to program a bot that plays crematoria boardgame (an invented game).
+The objective of this project is to program a bot that plays crematoria boardgame (an invented game). To read a more extended document of how it has to work you can look it in the **rules_of_the_game.pdf**
 
 To program this the majority of algorithms implemented are bfs to see what move is better to do in each ocasion. To improve this, we could use dijkstra.
 
